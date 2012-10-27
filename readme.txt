@@ -1,5 +1,7 @@
-Copy files to \Steam\steamapps\common\dota 2 beta\dota\cfg For DOTA 2 Files
+To use the CFGs copy text content to a txt file and rename it to autoexec.cfg. Move it to /steam/appdata/common/dota 2 beta/dota/cfg
 
-Copy files to  \Steam\steamapps\your_account\team fortress 2\tf\cfg For TF2 Files
+Or save it as you wish(name.cfg) and use exec file at Console.
 
-To download files, Right click >> Download file as.
+Same thing to TF2, but use /steam/appdata/your_account/team fortress 2/tf/cfg instead.
+
+Or you can use alternative link at subfolder readme.
